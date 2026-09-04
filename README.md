@@ -198,7 +198,7 @@ Dashboard dibuat menggunakan Power BI untuk memberikan overview mengenai custome
 
 ### Dashboard Preview
 
-![Customer Analysis & Segmentation Dashboard](powerbi/screenshots/dashboard-preview.png)
+![Customer Analysis & Segmentation Dashboard](powerbi/screenshot/dashboard-preview.png)
 
 ## Key Insights
 
